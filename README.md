@@ -23,6 +23,16 @@ By reflecting on Moses’ life and leadership, this essay seeks to draw meaningf
 - PowerBi for creating report[download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 - Microsoft Powerpoint
 
+--- SQL
+
+SELECT A,B,C
+
+where A> 15'
+
+---
+
+
+
 
 
 
