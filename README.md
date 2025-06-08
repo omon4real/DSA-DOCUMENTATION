@@ -20,7 +20,7 @@ By reflecting on Moses’ life and leadership, this essay seeks to draw meaningf
       2. Data Munching
   
 - SQL Server
-- PowerBi for creating report[download here](https://www.microsoft.com)
+- PowerBi for creating report[download here](https://www.microsoft.com/en-ng/powerbi))
 - Microsoft Powerpoint
 
 
